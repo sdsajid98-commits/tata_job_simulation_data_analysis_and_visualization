@@ -20,6 +20,8 @@ This project was completed as part of the **Tata Group Job Simulation on Forage*
 **Key Visuals:**
 - Monthly Revenue Line Chart
 - Decomposition Tree (Nov Revenue by Country → Product)
+![Revenue Trend & Seasonality](https://github.com/sdsajid98-commits/tata_job_simulation_data_analysis_and_visualization/blob/main/dashboard/dashboard-0001.jpg)
+
 
 ---
 
@@ -35,6 +37,7 @@ This project was completed as part of the **Tata Group Job Simulation on Forage*
 - Top 10 Countries by Revenue (Bar Chart)
 - Matrix/Heatmap showing Top Product per Country
 
+![Top 10 Countries](https://github.com/sdsajid98-commits/tata_job_simulation_data_analysis_and_visualization/blob/main/dashboard/dashboard-0002.jpg)
 ---
 
 ### 3️⃣ Top Customers & Revenue Concentration
@@ -49,7 +52,7 @@ This project was completed as part of the **Tata Group Job Simulation on Forage*
 - Top 10 Customers (Pareto/Bar Chart)
 - Repeat Rate Card Visual
 - Histogram of Re-order Time Buckets
-
+![Top 10 Customers](https://github.com/sdsajid98-commits/tata_job_simulation_data_analysis_and_visualization/blob/main/dashboard/dashboard-0003.jpg)
 ---
 
 ### 4️⃣ Global Demand & Expansion Opportunities
@@ -64,6 +67,7 @@ This project was completed as part of the **Tata Group Job Simulation on Forage*
 - Global Map (Quantity by Country)
 - Callout Boxes for Highest/Lowest Demand Countries
 
+![Regional Analysis)[https://github.com/sdsajid98-commits/tata_job_simulation_data_analysis_and_visualization/blob/main/dashboard/dashboard-0004.jpg]
 ---
 
 ## 📊 Dashboard Snapshot
@@ -100,61 +104,4 @@ This project was completed as part of the **Tata Group Job Simulation on Forage*
 - Excluded UK for expansion analysis
 - Created calculated tables and measures for repeat customer analysis
 
----
-
-## 🧠 Key Insights Delivered
-
-| Insight | Business Implication |
-| :--- | :--- |
-| **November 2011 was the peak sales month** | The surge was driven primarily by [Country] and [Product]. Replicate this campaign in other regions. |
-| **Top 10 countries (excluding UK) represent XX% of international revenue** | Focus expansion efforts on the top 3 countries first. |
-| **Top customer concentration risk: Top 5 customers contribute X%** | Diversify the customer base before entering new markets. |
-| **Repeat customer rate: XX%** | Launch retention campaigns at Day 45 post-purchase to shorten re-order cycles. |
-| **Product preferences vary significantly by region** | Localize inventory and marketing for each expansion target. |
-
----
-
-## 🚀 How to Use This Repository
-
-1. Clone the Repository:
-   git clone https://github.com/yourusername/tata-expansion-strategy.git
-
-2. Open the Power BI File:
-   Open Tata_Expansion_Strategy.pbix in Power BI Desktop.
-
-3. Explore the Dashboards:
-   Navigate through the 4 pages to see the analysis. Use slicers to filter by country, product, or customer.
-
-4. Review the DAX Measures:
-   All custom measures are available in the Measures table within the Power BI model.
-
----
-
-
-
-## 📈 Future Enhancements
-
-- [ ] Add forecasting (ARIMA or Power BI native forecast) to predict 2012 revenue.
-- [ ] Incorporate profitability analysis (margins by product/country).
-- [ ] Build a cohort analysis to track customer retention over time.
-- [ ] Add a "What-If" parameter to simulate revenue impact of entering new countries.
-
----
-
-## 💬 Acknowledgments
-
-- **Tata Group & Forage** for providing the job simulation and business context.
-- **UCI Machine Learning Repository** for the Online Retail dataset.
-
----
-
-## 👤 Author
-
-**Your Name**  
-LinkedIn: https://linkedin.com/in/yourprofile  
-GitHub: https://github.com/yourusername  
-Data Analyst | Power BI Developer | Business Intelligence Enthusiast
-
----
-
-*This project was completed as part of a job simulation and is intended for portfolio purposes only. All insights are based on the provided dataset and do not represent actual Tata Group business strategies.*
+ job simulation and is intended for portfolio purposes only. All insights are based on the provided dataset and do not represent actual Tata Group business strategies.*
