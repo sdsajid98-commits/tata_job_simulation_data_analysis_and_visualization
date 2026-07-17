@@ -67,7 +67,7 @@ This project was completed as part of the **Tata Group Job Simulation on Forage*
 - Global Map (Quantity by Country)
 - Callout Boxes for Highest/Lowest Demand Countries
 
-![Regional Analysis)[https://github.com/sdsajid98-commits/tata_job_simulation_data_analysis_and_visualization/blob/main/dashboard/dashboard-0004.jpg]
+![Regional Analysis](https://github.com/sdsajid98-commits/tata_job_simulation_data_analysis_and_visualization/blob/main/dashboard/dashboard-0004.jpg]
 ---
 
 ## 📊 Dashboard Snapshot
